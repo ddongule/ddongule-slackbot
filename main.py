@@ -1,2 +1,2 @@
-print ("Hello, ddongule!")
+print ("Hello, ddongule(>.<)!")
 print("What's wrong?")
